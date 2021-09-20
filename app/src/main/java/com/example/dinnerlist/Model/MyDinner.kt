@@ -1,4 +1,9 @@
 package com.example.dinnerlist.Model
 
-class MyDinner(val stringResrouceId: Int) {
+import androidx.annotation.DrawableRes
+import androidx.annotation.StringRes
+
+class MyDinner(
+    @StringRes val stringResrouceId: Int,
+    @DrawableRes val imageREsourceId: Int) {
 }

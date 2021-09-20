@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TextView
+<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+<ImageView
+    android:id="@+id/item_image"
+    android:layout_width="48dp"
+    android:layout_height="48dp"
+    android:scaleType="fitCenter"
+    android:importantForAccessibility="no" />
+<TextView
     android:fontFamily="sans-serif-black"
     android:id="@+id/item_title"
     android:padding="4dp"
     android:layout_height="wrap_content"
     android:layout_width="wrap_content"/>
+</LinearLayout>
