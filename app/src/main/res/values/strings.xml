@@ -15,4 +15,6 @@
     <string name="dinner_13">Tarasupa</string>
     <string name="dinner_14">Soba</string>
     <string name="dinner_15">Yakisoba</string>
+
+    <string name="action_switch_layout">Switch Layout</string>
 </resources>

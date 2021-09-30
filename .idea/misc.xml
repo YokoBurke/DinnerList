@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/fujik/Downloads/DinnerList/app/src/main/res/drawable/grid_view.xml" value="0.17685185185185184" />
         <entry key="..\:/Users/fujik/Downloads/DinnerList/app/src/main/res/layout/activity_main.xml" value="0.1529888551165147" />
         <entry key="..\:/Users/fujik/Downloads/DinnerList/app/src/main/res/layout/list_item.xml" value="0.1529888551165147" />
+        <entry key="..\:/Users/fujik/Downloads/DinnerList/app/src/main/res/menu/menu.xml" value="0.175" />
       </map>
     </option>
   </component>
